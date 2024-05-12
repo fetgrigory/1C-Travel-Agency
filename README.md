@@ -8,3 +8,4 @@
 ![2](https://github.com/fetgrigory/1C-Travel-Agency/assets/157891679/cdfcb5e2-6332-459c-b5eb-767342ba6e5a)
 # Туры
 Справочник "Туры" будет содержать данные о доступных турах для бронирования.
+![6](https://github.com/fetgrigory/1C-Travel-Agency/assets/157891679/75ffd18b-8158-4e27-adec-ee5390bd5daa)
