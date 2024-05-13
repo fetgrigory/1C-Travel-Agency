@@ -15,9 +15,8 @@
 ![Цены](https://github.com/fetgrigory/1C-Travel-Agency/assets/157891679/d5fd7830-0c09-43bf-a2f9-84e1558c7898)
 # Учет деятельность турагентства
 Документы "Бронь" и "Посещения туристических мероприятий" будут использоваться для отражения операционной деятельности компании по оформлению бронировок и учёту посещений туристических мероприятий.
-![0000](https://github.com/fetgrigory/1C-Travel-Agency/assets/157891679/9eabd1a9-38f8-4287-a388-b24abe75d004)
-![777](https://github.com/fetgrigory/1C-Travel-Agency/assets/157891679/0dcc132c-b369-4cdb-8a8a-cab17c2ffbaf)
-
+![Бронь](https://github.com/fetgrigory/1C-Travel-Agency/assets/157891679/819c8b62-7186-4061-9a82-e3ce1039165b)
+![Посещения туристических](https://github.com/fetgrigory/1C-Travel-Agency/assets/157891679/7e8511ac-6148-41f0-beb7-b9f74488c96d)
 # Отчет по доходам
 Для того чтобы представить данные в понятном для пользователя виде, используется объект конфигурации Отчеты под названием "Доходы с туров", будет предоставлять информацию о доходах, полученных от продажи туров.
 ![0](https://github.com/fetgrigory/1C-Travel-Agency/assets/157891679/b9fca2fe-b5aa-4ded-9546-b64d4d4f0f8d)
