@@ -9,6 +9,7 @@
 # Туры
 Справочник "Туры" будет содержать данные о доступных турах для бронирования.
 ![Тур_1](https://github.com/fetgrigory/1C-Travel-Agency/assets/157891679/0c06442b-6dd2-4238-b5d8-7e666ea39797)
+![Тур_2](https://github.com/fetgrigory/1C-Travel-Agency/assets/157891679/c60f5392-10db-4c1b-acef-01348121ead7)
 # Цены
 Регистр сведений "Цены" можно использовать для хранения информации о ценах на туры.
 ![Цены](https://github.com/fetgrigory/1C-Travel-Agency/assets/157891679/d5fd7830-0c09-43bf-a2f9-84e1558c7898)
